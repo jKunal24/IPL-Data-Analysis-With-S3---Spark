@@ -2,8 +2,11 @@
 Analysis of IPL Data from year 2008-2024 
 
 **Storage : *AWS S3* 
+
 **Databricks : *Environment* to use Spark for data processing and handle infrastructure side of things ( local setup of scalas/java, networking tasks, etc. )
+
 **Language : *Python* ( as interface to use Apache Spark )
+
 **Visualization Libraries : *Plotly, Matplotlib & Seaborn*
 
 *Data Cleaning :*
